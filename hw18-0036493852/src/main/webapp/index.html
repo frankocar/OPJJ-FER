@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+	<style>
+		button.tag {
+   			background-color: #4CAF50;
+    		border: none;
+   			color: white;
+    		padding: 15px 32px;
+    		text-align: center;
+    		text-decoration: none;
+    		display: inline-block;
+    		font-size: 16px;    		
+    		margin: 4px 2px;
+    		transition-duration: 0.4s;
+		}
+		
+		button.tag:hover {
+   			 background-color: #ff9933;
+   			 color: white;
+		}
+		
+		p.tag {
+			font-style: italic;
+			font-size: 80%;
+		}
+		
+		body {
+			font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+			margin: auto;
+  			width: 60%;
+   			padding: 10px;
+    		text-align: center;
+		}
+		
+	</style>
+	<head>
+		<meta charset="UTF-8">
+		<title>Gallery</title>
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script type="text/javascript" src="js/htmlescaping.js"></script>
+		<script type="text/javascript"><!--
+
+		  $(document).ready( 
+			  function() {
+				  $.ajax(
+						  {
+							  url: "servlets/tags",
+							  dataType: "json",
+							  success: function(data) {
+									var tags = data;
+									var html = "";
+									if(tags.length==0) {
+										html = "Nema rezultata...";
+									} else {
+										for(var i=0; i<tags.length; i++) {
+											html += "<button onclick=\"getThumbs(\'" + htmlEscape(tags[i]) + "\');\" class=\"tag\">" + htmlEscape(tags[i]) + "</button>";
+										}
+									}
+									$("#tagList").html(html);
+							  }
+		  	  				}
+		 				 );
+			  }
+		  );
+		
+		  
+			function getThumbs(selectedTag) {
+				$.ajax({
+					url : "servlets/tagPictures",
+					data : {
+						tag : selectedTag
+					},
+					dataType : "json",
+					success : function(data) {
+						var images = data;
+						var html = "";
+						if (images.length == 0) {
+							html = "Nema rezultata..."
+						} else {
+							for (var i = 0; i < images.length; i++) {
+								html += "<img src=\"servlets/getPicture?id=" + images[i].id + "&type=thumb\" onClick=\"showImage(" + images[i].id + ");\">  ";
+							}
+						}
+						$("#thumbs").html(html);
+					}
+				});
+			}
+
+			function showImage(imgID) {
+				$.ajax({
+					url : "servlets/showPicture",
+					data : {
+						id : imgID
+					},
+					dataType : "json",
+					success : function(data) {
+						var image = data;
+						var html = "";
+						
+						html += "<h3>" + image.title + "</h3>";
+						html += "<img src=\"servlets/getPicture?id=" + image.id + "&type=pic\">  ";
+						html += "<br>";
+						html += "<p class=\"tag\">";
+						for(var i=0; i<image.tags.length; i++) {
+							html += image.tags[i];
+							if (i < image.tags.length - 1) {
+								html += ", "
+							}
+						}
+						html += "</p>";
+						
+						$("#image").html(html);
+					}
+				});
+			}
+
+			
+		//-->
+		</script>
+	</head>
+	<body>
+	
+		<h1>Gallery</h1>
+		
+		<div id="image">&nbsp;</div>
+		
+		<div id="thumbs">&nbsp;</div>
+		
+		<p>Available tags:</p>
+		
+		<div id="tagList">&nbsp;</div>		
+
+	</body>
+</html>

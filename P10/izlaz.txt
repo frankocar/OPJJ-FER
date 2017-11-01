@@ -1,0 +1,439 @@
+HTTP/1.1 200 OK
+Date: Sat, 20 May 2017 13:28:34 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 54196
+Connection: close
+Set-Cookie: __cfduid=dd4702a9f5c2d99390cbd3fb8f717b0ff1495286914; expires=Sun, 20-May-18 13:28:34 GMT; path=/; domain=.index.hr; HttpOnly
+Cache-Control: private
+Set-Cookie: ASP.NET_SessionId=kbi2vcijc0omzoajlwd250ig; domain=.index.hr; path=/; HttpOnly
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: HEAD, GET, OPTIONS
+Access-Control-Expose-Headers: Content-Range, Date, Etag, Cache-Control, Last-Modified
+Access-Control-Allow-Headers: Content-Type, Origin, Accept, Range, Cache-Control
+Access-Control-Max-Age: 600
+Timing-Allow-Origin: *
+Set-Cookie: serverIndex=tau|WSBE0; path=/
+Server: cloudflare-nginx
+CF-RAY: 361fa3d0f1fb593c-VIE
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="hr" lang="hr">
+<head id="Head1"><title>
+	TV Program - Tv Raspored - Danas na televiziji - Index.hr
+</title><link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><meta http-equiv="Cache-Control" content="no-cache" /><link rel="stylesheet" type="text/css" href="/app_themes/red/stylesheet2.css" media="screen" /><link rel="stylesheet" type="text/css" href="/app_themes/red/horizontalmenu3.css" media="screen" /><meta name="verify-v1" content="b3f+ncS30Ul/jMAVfG+/+tYnYvG37tZMcQrRZ50iyEI=" />
+    <script type="text/javascript" src="/js/swfobject2.js"></script>
+    <script type="text/javascript" src="/js/sifr2.js"></script>
+    <script src="/js/AC_OETags2.js" type="text/javascript"></script>
+	<script src="/js/jwplayer-5.9.js" type="text/javascript"></script>
+    
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<link rel="stylesheet" href="tv1.1.css" type="text/css" />
+<style>
+#wrapper {width:990px}
+</style>
+<meta name="google-site-verification" content="jR1qpVJ4Sv-kbNlDvZWJfORZ1aJbWJGSrIkM9E7gSKk" />
+	
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+	
+	
+	
+    </head>
+<body>
+<script type="text/javascript">
+function onFinishedPlaying() {
+}
+</script>
+
+        <form method="post" action="./" id="frm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk3NTg4OTQzN2RkNj8ut1Pgf7ume7/D5YqJvs5y7+s=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F7295E38" />
+        
+        <div id="portalheader">
+            <div style="width:990px; margin:0px auto; position:relative">
+                     
+		        <h2><a href="/">Index.hr</a></h2>
+		        
+		        <div class="toptraka">15:29 &bull; 20.5.2017. &bull; <a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.index.hr/');">POSTAVI INDEX ZA HOMEPAGE</a> &bull; <a href="/trazi.aspx">TRA&#381;I</a></div>
+	            <div style='zoom:100%;position:absolute; z-index:1; width:315px; bottom:-20px; right:0px'>
+	                <div style="border:7px solid #fff;border-left:8px solid #fff; border-bottom:0px">
+	                    <div class="login">
+                            <h3 class="klub"><a href="/profil/">Klub</a></h3>
+                            <div class="menu"><a class="online" href="/profil">TKO JE ONLINE</a><span class="hide"></span><a class="forum" href="/indexforum/">FORUM</a><span class="hide"></span><div style="clear:both"></div></div>
+	                        <div style="padding:3px 8px">Neregistrirani korisnik | <a href="/profil/account/logonfullscreen">Logirajte se</a> ili <a href="/profil/registracija/prvikorak">registrirajte</a>.</div>
+	                    </div>
+	                </div>
+	            </div>   
+	        </div> 
+	    </div>
+	    
+	    <div style="background:#000; text-align:center">
+	    <!-- banner rotator -->
+        
+        <!-- end banner rotator -->
+	    
+		
+		
+		</div>
+		
+		
+		
+	    
+	    
+	    
+	    <div style="background:#2A2927">
+	        <div style="width:990px; margin:0px auto">   
+	        
+                   <div class="menuholder">
+                    <div class="horizontalmenu1">         
+                    
+                    
+<ul>
+	<li><a class='toplevel mnuIndex' href='/'>Index<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li><a href='http://www.index.hr/index/default.aspx?id=5'>Marketing</a></li>
+		<li><a href='http://www.index.hr/index/default.aspx?id=4'>Kontakt</a></li>
+		<li><a href='http://www.index.hr/index/default.aspx?id=2'>Impressum</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	
+	<li><a class='toplevel mnuKlub' href='/profil'>Klub<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li><a href='/indexklub/profil'>Pregled profila</a></li>
+		<li><a href='/indexklub/profil'>Moj profil</a></li>
+		<li><a href='/indexklub/pp.aspx'>Privatne poruke</a></li>
+		
+		<li><a href='/indexforum/'>Forum</a></li>
+		
+		<li><a href='http://bloger.hr'>Bloger</a></li>
+		<li><a href='/servisi/razglednice/'>E-Cards</a></li>
+		<li><a href='/wallpapers/'>Wallpapers</a></li>
+		<li><a href='/hrfoto/'>HR Foto</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	
+	<li><a class='toplevel mnuBloger' href='http://www.bloger.hr'>Bloger</a></li>
+    <li><a class='toplevel mnuVideo' href='http://www.index.hr/video'>Video<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li><a href='/arhiva-video/'>Video arhiva</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	
+    
+	<li><a class='toplevel mnuForum' href='http://www.index.hr/indexforum/'>Forum<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li><a href='http://www.index.hr/indexforum/'>Forum</a></li>
+		<li><a href='http://www.index.hr/forum/'>Stari forum (arhiva)</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+
+    
+	<li><a class='toplevel mnuVijesti' href='/vijesti/'>Vijesti<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li><a href='/vijesti/'>Naslovnica</a></li>
+		<li><a href='/vijesti/najnovije.aspx'>Najnovije vijesti</a></li>
+		<li><a href='/media/'>Media Index</a></li>
+		<li><a href='/vijesti/komentatori/'>Komentari</a></li>
+
+		<li><a href='/arhiva/vijesti'>Arhiva</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+
+
+	<li><a class='toplevel mnuSport' href='/sport/'>Sport<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li><a href='/sport/'>Naslovnica</a></li>
+		<li><a href='http://www.index.hr/sport/tema/118/analiza-kladjenja.aspx'>Analiza klađenja</a></li>
+		<li><a href='/arhiva/sport'>Arhiva</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	
+
+
+	<li><a class='toplevel mnuXmag' href='/xmag/'>Xmag<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+		<li><a href='/xmag/'>Naslovnica</a></li>
+		
+		<li><a href='/xmag/rubrika/zanimljivosti/275.aspx'>Zanimljivosti</a></li>
+		<li><a href='/xmag/rubrika/showbiz/68.aspx'>Showbiz</a></li>
+		<li><a href='/xmag/rubrika/lifestyle/157.aspx'>Lifestyle</a></li>
+		<li><a href='/xmag/rubrika/ljepotice/1336.aspx'>Ljepotice</a></li>
+		<!--li><a href='/xmag/rubrika/ljepota-i-zdravlje/1337.aspx'>Ljepota i zdravlje</a></li-->
+		<li><a href='/xmag/nightlife/'>Nightlife</a></li>
+		<li><a href='/xmag/rubrika/reality/1442.aspx'>Reality</a></li>
+		
+		<li><a href='/rouge/'>Rouge</a></li>
+		<li><a href='/like/'>Like</a></li>
+		<li><a href='/hot/'>Hot</a></li>
+		
+		<li><a href='/mtv/'>MTV</a></li>
+		<li><a href='/arhiva/xmag'>Arhiva</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	
+	
+    <li><a class='toplevel mnuNightlife' href='/xmag/nightlife/'>Nightlife</a></li>
+
+	<li><a class='toplevel mnuAuto' href='/auto/'>Auto</a></li>
+	
+	<li><a class='toplevel mnuInfo' href='/info/tv/'>Info<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul class="endstop">
+		<li><a href='/info/prijevod/'>Prijevod</a></li>
+		<li><a href='/info/vrijeme/'>Vrijeme</a></li>
+		<li><a href='/info/tecaj/'>Tečaj</a></li>
+		<li><a href='/info/kino/'>Kino</a></li>
+		<li><a href='/info/tv/'>TV program</a></li>
+		<li><a href='/horoskop'>Horoskop</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+</ul>
+                    
+                    
+                    
+                    </div>
+                   </div>
+                  	            
+	        </div>
+	    </div>
+	    
+	    
+	    
+	    <div style="background:#fff;height:7px; overflow:hidden"></div>
+	    
+        <div id="shadow"> 
+            <div id="wrapper" style="position:relative;z-index:1">
+            
+                
+                <div id="innerwrapper">    
+                     
+                     <div>
+                     
+
+
+<div style="margin:0 7px; zoom:1">
+    
+    
+    <h1 class="tvtitle">Tv Program</h1>
+    <p class="tvsubtitle">Tv raspored - HRT1, HRT2, NOVA, RTL, DOMA TV, RTL2, NET ,Z1, CINESTAR TV, TV1000, FOX LIFE, FOX CRIME</p>
+
+    <a class="powered" href="http://mojtv.hr"><strong>tv program</strong></a>
+    <div style="clear:both"></div>
+
+    <div class="right">
+		
+<!-- CTRLSTART bannerrotator.ascx -->
+<!-- idcategory: 89, idsize: 21, idbanner: 0, idgroup: 0 -->
+
+<!-- CTRLEND bannerrotator.ascx -->
+
+
+	
+        <h3>Filmovi danas</h3>
+        
+        <a id="MainMasterPage_hypmainmovie" href="http://mojtv.hr/film/21456/ljeto-za-sjecanje.aspx"><img id="MainMasterPage_mainmovie" src="http://mojtv.hr/thumb.ashx?path=/images/cabc8180-8513-40c3-9537-a80f2e22c4fc.jpg&amp;w=300&amp;h=180" height="180" width="300" /></a>
+        
+        <ul class="movielist"><li><em>22<sup>41</sup><br /><span>HTV1</span></em><h2><a target="_blank" href="http://mojtv.hr/film/21456/ljeto-za-sjecanje.aspx">Ljeto za sjećanje</a></h2><strong>komedija drama </strong><p>Pred povučenim 14-godišnjakom stoji najvažnije ljeto njegovog života</p></li><li><em>21<sup>20</sup><br /><span>NOVA</span></em><h2><a target="_blank" href="http://mojtv.hr/film/33595/nemoguca-misija-odmetnuti.aspx">Nemoguća misija: Odmetnuti</a></h2><strong>akcija triler avantura </strong><p>Ethan Hunt po peti puta kreće u nemoguću misiju </p></li><li><em>20<sup>25</sup><br /><span>RTL</span></em><h2><a target="_blank" href="http://mojtv.hr/film/11811/kako-je-gru-ukrao-mjesec.aspx">Kako je Gru ukrao mjesec</a></h2><strong>animirani obiteljski </strong><p>Tri slatke djevojčice okrenuti će život profesionalnog zlikovca naglavačke</p></li><li><em>20<sup>05</sup><br /><span>RTL</span></em><h2><a target="_blank" href="http://mojtv.hr/film/51029/ludi-malci.aspx">Ludi malci</a></h2><strong>animirani </strong><p>Kratki animirani filmić s omiljenim Malcima u glavnim ulogama</p></li><li><em>20<sup>08</sup><br /><span>HTV1</span></em><h2><a target="_blank" href="http://mojtv.hr/film/2750/afera-thomasa-crowna.aspx">Afera Thomasa Crowna</a></h2><strong>triler drama kriminalistički </strong><p>Milijarder kojem je sve dostupno i pomalo dosadno zabavlja se krađom skupocijenih slika</p></li></ul>
+        
+        <br />
+		
+		
+<!-- CTRLSTART bannerrotator.ascx -->
+<!-- idcategory: 89, idsize: 34, idbanner: 0, idgroup: 0 -->
+
+<!-- CTRLEND bannerrotator.ascx -->
+
+		
+        <h3>Aktivne teme na forumu</h3>
+        <ul class="forumlist"><li><a href="/forum/default.aspx?q=t&amp;idf=107&amp;idt=211076"><strong>...Najdraža serija...</strong></a><br /><em>Gaga27</em></li><li><a href="/forum/default.aspx?q=t&amp;idf=107&amp;idt=348801"><strong>Hrvatski Kraljevi, HRT1 u petak, 20:10</strong></a><br /><em>Sjena_istarska</em></li><li><a href="/forum/default.aspx?q=t&amp;idf=107&amp;idt=262898"><strong>Gledanje televizije preko interneta (HRT, HRT2, NOV@ tv i RTL) ?</strong></a><br /><em>zeljkoo7</em></li><li><a href="/forum/default.aspx?q=t&amp;idf=107&amp;idt=191887"><strong>Dexter</strong></a><br /><em>Delegat___</em></li><li><a href="/forum/default.aspx?q=t&amp;idf=107&amp;idt=343236"><strong>posljednja serija koju ste gledali bila je...</strong></a><br /><em>wildana1</em></li><li><a href="/forum/default.aspx?q=t&amp;idf=107&amp;idt=348802"><strong>Hrvatska trazi zvijezdu 9.10.2011 - pjesma Hallelujah</strong></a><br /><em>Voloder</em></li><li><a href="/forum/default.aspx?q=t&amp;idf=107&amp;idt=129756"><strong>Koje biste forumaše voljeli vidjeti u Big Brotheru i zašto?</strong></a><br /><em>lepiaco</em></li></ul>
+        
+    </div>
+
+
+    <div class="left">
+
+        <div class="daymenu">
+            <div class="days"><a href="/info/tv/default.aspx?datum=19.5.2017.&grupa=">petak</a><a class="sel" href="/info/tv/default.aspx?datum=20.5.2017.&grupa=">subota</a><a href="/info/tv/default.aspx?datum=21.5.2017.&grupa=">nedjelja</a><a href="/info/tv/default.aspx?datum=22.5.2017.&grupa=">ponedjeljak</a><a href="/info/tv/default.aspx?datum=23.5.2017.&grupa=">utorak</a><a href="/info/tv/default.aspx?datum=24.5.2017.&grupa=">srijeda</a><a href="/info/tv/default.aspx?datum=25.5.2017.&grupa=">četvrtak</a><div style="clear:both"></div></div>          
+        </div>
+        
+        <div style="margin-top:3px" class="tvmenu">
+        <a href="default.aspx?datum=&grupa=1" id="MainMasterPage_grupa1" class="sel">HRT1 - HRT2 - NOVATV - RTL</a>
+        <a href="default.aspx?datum=&grupa=2" id="MainMasterPage_grupa2">Doma TV - RTL 2 - NET - Z1</a>
+	<a href="default.aspx?datum=&grupa=4" id="MainMasterPage_grupa4">HRT3 - HRT4 - CMC - Jabuka TV</a>
+        <a href="default.aspx?datum=&grupa=3" id="MainMasterPage_grupa3">Cinestar TV - Cinestar Action - Cinestar Premiere 1 - Cinestar Premiere 2</a>
+	<a href="default.aspx?datum=&grupa=5" id="MainMasterPage_grupa5">National Geo - Discovery Channel - Viasat History - Aljazeera Balkans</a>
+	<a href="default.aspx?datum=&grupa=6" id="MainMasterPage_grupa6">Universal Channel - TV 1000 - Fox Crime - Fox Life</a>
+        <div style="clear:both"></div>
+        </div>
+
+        
+
+<div class="kanali" style="margin-top:20px; zoom:1">
+            <div style="width:25%; float:left; overflow:hidden">
+                <div><img src="img/hrt1.gif" id="MainMasterPage_ctl00_ch1img" style="padding-left:2px" /></div>
+                <table cellpadding="0" cellspacing="0" class="kanal"><tr class="past"><td class="time">07:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18302/vijesti.aspx">Vijesti</a></strong></td></tr><tr class="past"><td class="time"><em>07:06</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/2964/dobro-jutro-hrvatska.aspx">Dobro jutro, Hrvatska</a></strong></td></tr><tr class="past"><td class="time">08:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18302/vijesti.aspx">Vijesti</a></strong></td></tr><tr class="past"><td class="time"><em>08:06</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/2964/dobro-jutro-hrvatska.aspx">Dobro jutro, Hrvatska</a></strong></td></tr><tr class="past"><td class="time">09:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18302/vijesti.aspx">Vijesti</a></strong></td></tr><tr class="past"><td class="time timefilm"><em>09:11</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/15275/opasna-djavolica.aspx">Opasna đavolica, američko- talijanski film -  ciklus klasičnog vesterna</a></strong>, Heller In Pink Tights</td></tr><tr class="past"><td class="time"><em>10:51</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/21557/i-to-je-hrvatska.aspx">I to je Hrvatska: Rastoke (R)</a></strong></td></tr><tr class="past"><td class="time">11:06</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18290/kucni-ljubimci.aspx">Kućni ljubimci (T)</a></strong></td></tr><tr class="past"><td class="time">11:36</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (7) (R)</a></strong></td></tr><tr class="past"><td class="time">11:42</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16761/tv-kalendar.aspx">TV Kalendar (T) (R)</a></strong></td></tr><tr class="past"><td class="time">12:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16773/dnevnik-1.aspx">Dnevnik 1 (T)</a></strong></td></tr><tr class="past"><td class="time timesport"><em>12:14</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16801/sport.aspx">Sport (T)</a></strong></td></tr><tr class="past"><td class="time">12:17</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/25130/vrijeme-rh.aspx">Vrijeme (T)</a></strong></td></tr><tr class="past"><td class="time">12:19</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16813/hak--promet-info.aspx">HAK -  promet info</a></strong></td></tr><tr class="past"><td class="time">12:26</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18301/veterani-mira.aspx">Veterani mira</a></strong></td></tr><tr class="past"><td class="time"><em>13:14</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18287/duhovni-izazovi.aspx">Duhovni izazovi</a></strong></td></tr><tr class="past"><td class="time"><em>13:48</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18295/prizma--multinacionalni-magazin.aspx">Prizma -  multinacionalni magazin</a></strong></td></tr><tr class="current"><td class="time timefilm"><em>14:38</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/35656/rafale-povjerljivo.aspx">Rafale povjerljivo -  Od ideje do moćnog aviona, dokumentarni film (T) (R)</a></strong>, Rafale Confidential</td></tr><tr class="next"><td class="time"><em>15:37</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/47335/gradionica-vrtova.aspx">Gradionica vrtova: Nadira, dokumentarna serija (9/12)</a></strong></td></tr><tr class="next"><td class="time"><em>16:09</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/44434/zdrav-zivot.aspx">Zdrav život (16/20)</a></strong></td></tr><tr class="next"><td class="time">16:37</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (8) (R)</a></strong></td></tr><tr class="next"><td class="time"><em>16:40</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/kanal/tv-program/1/htv1/2017-05-20/emisija/82403526/tv-izlozba-josko-eterovic--umjetnost-u-prostorur.aspx">TV izložba: Joško Eterović -  umjetnost u prostoru (R)</a></strong></td></tr><tr class="next"><td class="time">16:44</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16761/tv-kalendar.aspx">TV kalendar (T) (R)</a></strong></td></tr><tr class="next"><td class="time">17:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/39640/vijesti-u-17.aspx">Vijesti u 17 (T)</a></strong></td></tr><tr class="next"><td class="time">17:14</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/25130/vrijeme-rh.aspx">Vrijeme (T)</a></strong></td></tr><tr class="next"><td class="time">17:15</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16813/hak--promet-info.aspx">HAK -  promet info</a></strong></td></tr><tr class="next"><td class="time"><em>17:18</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18291/kulturna-bastina.aspx">Kulturna baština: U potrazi za glagoljicom</a></strong></td></tr><tr class="next"><td class="time">17:33</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (9) (R)</a></strong></td></tr><tr class="next"><td class="time"><em>17:41</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18292/lijepom-nasom.aspx">Lijepom našom: Jelsa (2/2)</a></strong></td></tr><tr class="next"><td class="time">18:59</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/25130/vrijeme-rh.aspx">Vrijeme (T)</a></strong></td></tr><tr class="next"><td class="time">19:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16760/dnevnik-2.aspx">Dnevnik 2 (T)</a></strong></td></tr><tr class="next"><td class="time">19:42</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/25130/vrijeme-rh.aspx">Vrijeme (T)</a></strong></td></tr><tr class="next"><td class="time">19:45</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18299/tema-dana.aspx">Tema dana</a></strong></td></tr><tr class="next"><td class="time"><em>20:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18326/loto-739.aspx">LOTO 7/39</a></strong></td></tr><tr class="next"><td class="time timefilm"><em>20:08</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/2750/afera-thomasa-crowna.aspx">Afera Thomasa Crowna, američki film (12)</a></strong>, The Thomas Crown Affair</td></tr><tr class="next"><td class="time">22:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16775/dnevnik-3.aspx">Dnevnik 3 (T)</a></strong></td></tr><tr class="next"><td class="time timesport"><em>22:15</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16801/sport.aspx">Sport (T)</a></strong></td></tr><tr class="next"><td class="time">22:22</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/25130/vrijeme-rh.aspx">Vrijeme (T)</a></strong></td></tr><tr class="next"><td class="time">22:24</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16876/vijesti-iz-kulture.aspx">Vijesti iz kulture (T)</a></strong></td></tr><tr class="next"><td class="time">22:32</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (10) (R)</a></strong></td></tr><tr class="next"><td class="time timefilm"><em>22:41</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/21456/ljeto-za-sjecanje.aspx">Nezaboravno ljeto, američki film (12) (R)</a></strong>, The Way Way Back (2013)</td></tr><tr class="next"><td class="time timefilm"><em>00:23</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/15275/opasna-djavolica.aspx">Opasna đavolica, američko- talijanski film -  ciklus klasičnog vesterna</a></strong>, Heller In Pink Tights</td></tr><tr class="next"><td class="time timeserija"><em>02:00</em></td><td class="title"><strong><a target="_blank" class="serija" href="http://mojtv.hr/serije/33474/houdini.aspx">Houdini, serija (12) (1/2) (R)</a></strong>, Houdini</td></tr><tr class="next"><td class="time"><em>03:22</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18298/skica-za-portret.aspx">Skica za portret (R)</a></strong></td></tr><tr class="next"><td class="time"><em>03:23</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/4752/normalan-zivot.aspx">Normalan život: Martinov plašt (R)</a></strong></td></tr><tr class="next"><td class="time"><em>04:09</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18293/manjinski-mozaik.aspx">Manjinski mozaik: Gospar Sule (R)</a></strong></td></tr><tr class="next"><td class="time timefilm"><em>04:24</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/35656/rafale-povjerljivo.aspx">Rafale povjerljivo -  Od ideje do moćnog aviona, dokumentarni film (R)</a></strong>, Rafale Confidential</td></tr><tr class="next"><td class="time">05:19</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18299/tema-dana.aspx">Tema dana (R)</a></strong></td></tr><tr class="next"><td class="time">05:31</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18301/veterani-mira.aspx">Veterani mira (R)</a></strong></td></tr><tr class="next"><td class="time"><em>06:15</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/18295/prizma--multinacionalni-magazin.aspx">Prizma -  multinacionalni magazin (R)</a></strong></td></tr></table>
+            </div>
+            <div style="width:25%; float:left; overflow:hidden">
+                <div><img src="img/hrt2.gif" id="MainMasterPage_ctl00_ch2img" style="padding-left:2px" /></div>
+                <table cellpadding="0" cellspacing="0" class="kanal"><tr class="past"><td class="time">07:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/37930/pjesmice-i-brojalice.aspx">Pjesmice i brojalice: Dani (R)</a></strong></td></tr><tr class="past"><td class="time">07:02</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/38577/simfolije.aspx">Simfolije, crtana serija (17/52) (R)</a></strong></td></tr><tr class="past"><td class="time">07:07</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28794/juhuhu.aspx">Juhuhu</a></strong></td></tr><tr class="past"><td class="time">07:10</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/26931/danica.aspx">Danica i lane buntovnik (R)</a></strong></td></tr><tr class="past"><td class="time">07:16</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/37930/pjesmice-i-brojalice.aspx">Pjesmice i brojalice: Okoš bokoš (R)</a></strong></td></tr><tr class="past"><td class="time">07:17</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28794/juhuhu.aspx">Juhuhu</a></strong></td></tr><tr class="past"><td class="time">07:19</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/36275/zvonko-u-zemlji-igracaka.aspx">Zvonko u zemlji igračaka, crtana serija (18/52) (R)</a></strong></td></tr><tr class="past"><td class="time"><em>07:30</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16853/tv-vrtic.aspx">TV Vrtić: Gimnastika (R)</a></strong></td></tr><tr class="past"><td class="time">07:41</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28794/juhuhu.aspx">Juhuhu</a></strong></td></tr><tr class="past"><td class="time">07:44</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/25368/zack-i-kvak.aspx">Žak i Kvak, crtana serija (51/52) (R)</a></strong></td></tr><tr class="past"><td class="time">07:55</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28794/juhuhu.aspx">Juhuhu</a></strong></td></tr><tr class="past"><td class="time">07:57</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/17443/profesor-baltazar.aspx">Profesor Baltazar: Alfred, noćni čuvar, crtani film (R)</a></strong></td></tr><tr class="past"><td class="time">08:07</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/41145/rucice-carobnice.aspx">Ručice čarobnice: Pokisli leptirić (R)</a></strong></td></tr><tr class="past"><td class="time">08:12</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28794/juhuhu.aspx">Juhuhu</a></strong></td></tr><tr class="past"><td class="time"><em>08:14</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/40970/volim-zivotinje.aspx">Volim životinje: Divlja svinja (R)</a></strong></td></tr><tr class="past"><td class="time">08:19</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28794/juhuhu.aspx">Juhuhu</a></strong></td></tr><tr class="past"><td class="time">08:21</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/21578/laboratorij-na-kraju-svemira.aspx">Laboratorij na kraju svemira: Duga (R)</a></strong></td></tr><tr class="past"><td class="time">08:33</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/22200/kronike-matta-hattera.aspx">Kronike Matta Hattera (3), crtana serija (5/13)</a></strong>, Matt Hatter Chronicles 3</td></tr><tr class="past"><td class="time">08:55</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/39956/cudesno-putovanje-jeza-aladina.aspx">Čudesno putovanje ježa Aladina, dokumentarna serija (4/13) (R)</a></strong></td></tr><tr class="past"><td class="time"><em>09:03</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/41453/u-sredistu-zivota.aspx">U središtu Života, dokumentarna serija (7/10) (R)</a></strong>, Inside Life</td></tr><tr class="past"><td class="time timeserija"><em>09:35</em></td><td class="title"><strong><a target="_blank" class="serija" href="http://mojtv.hr/serije/50996/ljetni-kamp.aspx">Ljetni kamp (1), serija za mlade (1/6)</a></strong>, Vive Le Colo / Summer Camp</td></tr><tr class="past"><td class="time"><em>10:31</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/37002/hestonova-fantasticna-jela.aspx">Hestonova fantastična jela, dokumentarna serija (1/7) (R)</a></strong>, Heston's Fantastical Food</td></tr><tr class="past"><td class="time">11:18</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (1) (R)</a></strong></td></tr><tr class="past"><td class="time">11:27</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/17565/vrtlarica.aspx">Vrtlarica: Nasljeđe (R)</a></strong></td></tr><tr class="past"><td class="time"><em>11:59</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/39291/vrtni-snovi.aspx">Vrtni snovi: Dama među ružama, dokumentarna serija (5/5)</a></strong>, Gartenträume / Garden Dreams</td></tr><tr class="past"><td class="time timesport"><em>12:45</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/40401/europska-liga.aspx">Magazin EL</a></strong></td></tr><tr class="past"><td class="time timesport"><em>13:13</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/41286/auto-market-magazin.aspx">Auto Market Magazin -  sponzorirani program</a></strong></td></tr><tr class="past"><td class="time">13:42</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (2) (R)</a></strong></td></tr><tr class="past"><td class="time">13:49</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/41164/luka-i-prijatelji.aspx">Luka i prijatelji</a></strong></td></tr><tr class="current"><td class="time timeserija"><em>14:19</em></td><td class="title"><strong><a target="_blank" class="serija" href="http://mojtv.hr/serije/6133/ubojstva-u-midsomeru.aspx">Umorstva u Midsomeru (12), serija (12) (3/7)</a></strong>, Midsomer Murders 12</td></tr><tr class="next"><td class="time">15:52</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (3) (R)</a></strong></td></tr><tr class="next"><td class="time">16:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/25287/regionalni-dnevnik.aspx">Regionalni dnevnik (T)</a></strong></td></tr><tr class="next"><td class="time"><em>16:28</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/40849/sjedni-odlican.aspx">Sjedni, odličan</a></strong></td></tr><tr class="next"><td class="time timesport"><em>17:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/51070/osijek-gimnastika--svjetski-kup.aspx">Osijek: Gimnastika -  svjetski kup, prijenos</a></strong></td></tr><tr class="next"><td class="time timesport"><em>19:50</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/43248/kosarka-ph.aspx">Košarka, PH (m): Cedevita -  Cibona, finale, prijenos 1. pol. (2. utakmica)</a></strong></td></tr><tr class="next"><td class="time">20:37</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/40267/glazbeni-spotovi.aspx">Glazbeni spotovi</a></strong></td></tr><tr class="next"><td class="time timesport"><em>20:45</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/43248/kosarka-ph.aspx">Košarka, PH (m): Cedevita -  Cibona, finale, prijenos 2. pol. (2. utakmica)</a></strong></td></tr><tr class="next"><td class="time">21:35</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (4) (R)</a></strong></td></tr><tr class="next"><td class="time"><em>21:41</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50933/grcka-sa-simonom-reeveom.aspx">Grčka sa Simonom Reeveom, dokumentarni film (1/2)</a></strong>, Greece With Simon Reeve</td></tr><tr class="next"><td class="time timeserija"><em>22:43</em></td><td class="title"><strong><a target="_blank" class="serija" href="http://mojtv.hr/serije/23106/motel-bates.aspx">Motel Bates (3), serija (15) (9/10)</a></strong>, Bates Motel 3</td></tr><tr class="next"><td class="time">23:23</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50326/cesarica--hit-godine.aspx">Cesarica -  hit godine (5) (R)</a></strong></td></tr><tr class="next"><td class="time timeserija"><em>23:30</em></td><td class="title"><strong><a target="_blank" class="serija" href="http://mojtv.hr/serije/13858/ludnica-u-clevelandu.aspx">Ludnica u Clevelandu (5), humoristična serija (12) (20/24)</a></strong>, Hot In Cleveland 5</td></tr><tr class="next"><td class="time timeserija"><em>23:52</em></td><td class="title"><strong><a target="_blank" class="serija" href="http://mojtv.hr/serije/2119/uvijek-je-suncano-u-philadelphiji.aspx">Uvijek je sunčano u Philadelphiji (10), humoristična serija (15) (8/10)</a></strong>, It's Always Sunny In Philadelphia 10</td></tr><tr class="next"><td class="time">00:11</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16896/nocni-glazbeni-program.aspx">Noćni glazbeni program -  Spotovi</a></strong></td></tr><tr class="next"><td class="time">03:24</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16896/nocni-glazbeni-program.aspx">Noćni glazbeni program: Vanna i gosti, Tvornica, 07.11.2007. (R)</a></strong></td></tr><tr class="next"><td class="time">04:54</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16896/nocni-glazbeni-program.aspx">Noćni glazbeni program: Karoca gre...pjesme Jakše Fiamenga, V. Lisinski, 14.05.2007. (2. dio) (R)</a></strong></td></tr><tr class="next"><td class="time">05:56</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/25287/regionalni-dnevnik.aspx">Regionalni dnevnik (R)</a></strong></td></tr><tr class="next"><td class="time">06:23</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/19591/pipi-duga-carapa.aspx">Pipi duga čarapa, crtana serija za djecu (26/26) (R)</a></strong></td></tr><tr class="next"><td class="time">06:49</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28794/juhuhu.aspx">Juhuhu</a></strong></td></tr><tr class="next"><td class="time">06:51</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/37930/pjesmice-i-brojalice.aspx">Pjesmice i brojalice: Kiša pada (R)</a></strong></td></tr><tr class="next"><td class="time"><em>06:53</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/41366/nestasne-zivotinje.aspx">Nestašne životinje, dokumentarna serija za djecu (32/38) (R)</a></strong></td></tr><tr class="next"><td class="time">06:58</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28794/juhuhu.aspx">Juhuhu</a></strong></td></tr></table>
+            </div>
+            <div style="width:25%; float:left; overflow:hidden">
+                <div><img src="img/nova.gif" id="MainMasterPage_ctl00_ch3img" style="padding-left:2px" /></div>
+                <table cellpadding="0" cellspacing="0" class="kanal"><tr class="past"><td class="time">07:10</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/33509/shopkins.aspx">Shopkins</a></strong>, Animirana serija</td></tr><tr class="past"><td class="time">07:15</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/41088/bljakavci.aspx">Bljakavci</a></strong>, Animirana serija</td></tr><tr class="past"><td class="time">07:20</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/14424/pepa-prascic.aspx">Peppa Pig</a></strong>, Animirana serija</td></tr><tr class="past"><td class="time">07:25</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/32326/oddbods.aspx">Oddbods</a></strong>, Animirana serija</td></tr><tr class="past"><td class="time">07:40</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/38933/robocar-poli.aspx">Robocar Poli u prometu</a></strong>, Animirana serija</td></tr><tr class="past"><td class="time"><em>07:50</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/36140/tv-izlog.aspx">TV izlog</a></strong>, Razno</td></tr><tr class="past"><td class="time">08:05</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/18401/teenage-mutant-nindza-kornjace.aspx">Ninja kornjače</a></strong>, Animirana serija</td></tr><tr class="past"><td class="time">08:25</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/14404/winx.aspx">Winx Club</a></strong>, Animirana serija</td></tr><tr class="past"><td class="time"><em>08:50</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/38644/bez-kocnica.aspx">Bez kočnica</a></strong>, Magazinska emisija</td></tr><tr class="past"><td class="time">09:25</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/38646/informer.aspx">Informer</a></strong>, Magazinska emisija</td></tr><tr class="past"><td class="time"><em>10:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/41446/zdravlje-na-kvadrat.aspx">Zdravlje na kvadrat</a></strong>, Magazinska emisija</td></tr><tr class="past"><td class="time timefilm"><em>10:40</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/8751/kandidat.aspx">Kandidat</a></strong>, Igrani film</td></tr><tr class="past"><td class="time timefilm"><em>12:25</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/30403/sudac.aspx">Sudac</a></strong>, The Judge (2014)</td></tr><tr class="current"><td class="time">15:10</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28378/tvoje-lice-zvuci-poznato.aspx">Tvoje lice zvuči poznato</a></strong>, Zabavni program</td></tr><tr class="next"><td class="time">17:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16812/vijesti-nove-tv.aspx">Vijesti Nove TV</a></strong>, Informativni program</td></tr><tr class="next"><td class="time">17:10</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28378/tvoje-lice-zvuci-poznato.aspx">Tvoje lice zvuči poznato</a></strong>, Zabavni program</td></tr><tr class="next"><td class="time"><em>18:10</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/6085/provjereno.aspx">Provjereno</a></strong>, Informativni program</td></tr><tr class="next"><td class="time">19:15</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16809/dnevnik-nove-tv.aspx">Dnevnik Nove TV</a></strong>, Informativni program</td></tr><tr class="next"><td class="time timeserija"><em>20:10</em></td><td class="title"><strong><a target="_blank" class="serija" href="http://mojtv.hr/serije/4477/lud-zbunjen-normalan.aspx">Lud,zbunjen,normalan</a></strong>, Igrana serija</td></tr><tr class="next"><td class="time timefilm"><em>21:20</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/33595/nemoguca-misija-odmetnuti.aspx">Nemoguća misija 5</a></strong>, Igrani film</td></tr><tr class="next"><td class="time timefilm"><em>23:40</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/830/policajac-s-beverly-hillsa-3.aspx">Policajac s B. Hillsa 3</a></strong>, Igrani film</td></tr><tr class="next"><td class="time timefilm"><em>01:35</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/8751/kandidat.aspx">Kandidat</a></strong>, Igrani film</td></tr><tr class="next"><td class="time timeserija"><em>03:10</em></td><td class="title"><strong><a target="_blank" class="serija" href="http://mojtv.hr/serije/42114/nespojivi.aspx">Nespojivi</a></strong>, Igrana serija</td></tr><tr class="next"><td class="time"><em>03:50</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/36139/astro-savjetnik.aspx">Astro savjetnik</a></strong>, Astro show</td></tr><tr class="next"><td class="time"><em>04:50</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/42628/kraj-programa.aspx">Kraj programa</a></strong></td></tr><tr class="next"><td class="time">04:55</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16809/dnevnik-nove-tv.aspx">Dnevnik Nove TV</a></strong>, Informativni program</td></tr><tr class="next"><td class="time">05:40</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/38646/informer.aspx">Informer</a></strong>, Magazinska emisija</td></tr><tr class="next"><td class="time"><em>06:10</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/38644/bez-kocnica.aspx">Bez kočnica</a></strong>, Magazinska emisija</td></tr><tr class="next"><td class="time"><em>06:35</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/41446/zdravlje-na-kvadrat.aspx">Zdravlje na kvadrat</a></strong>, Magazinska emisija</td></tr></table>
+            </div>
+            <div style="width:25%; float:left; overflow:hidden">
+                <div><img src="img/rtl.gif" id="MainMasterPage_ctl00_ch4img" style="padding-left:2px" /></div>
+                <table cellpadding="0" cellspacing="0" class="kanal"><tr class="past"><td class="time">07:15</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/serije/14436/ninjago.aspx">Lego Ninjago</a></strong>, animirana serija (S2E9/13)</td></tr><tr class="past"><td class="time"><em>07:45</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/32330/tv-prodaja.aspx">TV prodaja</a></strong></td></tr><tr class="past"><td class="time"><em>08:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/32317/sef-na-tajnom-zadatku.aspx">Šef na tajnom zadatku</a></strong>, reality show (S3E5/13)</td></tr><tr class="past"><td class="time"><em>08:55</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/32330/tv-prodaja.aspx">TV prodaja</a></strong></td></tr><tr class="past"><td class="time"><em>09:10</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28326/obozavaj-ili-prodaj.aspx">Obožavaj ili prodaj</a></strong>, lifestyle emisija (S2E25)</td></tr><tr class="past"><td class="time"><em>10:15</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/32330/tv-prodaja.aspx">TV prodaja</a></strong></td></tr><tr class="past"><td class="time"><em>10:30</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/28326/obozavaj-ili-prodaj.aspx">Obožavaj ili prodaj</a></strong>, lifestyle emisija (S2E26)</td></tr><tr class="past"><td class="time"><em>11:30</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/50481/kucice-iz-snova-stil-zivota.aspx">Kućice iz snova: Stil života</a></strong>, lifestyle emisija (S2E2/13)</td></tr><tr class="past"><td class="time timefilm"><em>12:30</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/8037/americka-prica-2-mis-na-divljem-zapadu.aspx">Američka priča 2: Miš na Divljem zapadu</a></strong>, AN AMERICAN TAIL: FIEVEL GOES WEST (1991)</td></tr><tr class="current"><td class="time"><em>14:00</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/47513/super-ljudi.aspx">Superljudi (R)</a></strong>, show (S1E9/12)</td></tr><tr class="next"><td class="time">16:30</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16952/rtl-vijesti.aspx">RTL Vijesti</a></strong>, informativna emisija</td></tr><tr class="next"><td class="time"><em>16:40</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/5569/ljubav-je-na-selu.aspx">Ljubav je na selu -  nova sezona (R)</a></strong>, dokumentarna sapunica (S8E1)</td></tr><tr class="next"><td class="time">18:25</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/17416/rtl-vrijeme.aspx">RTL Vrijeme</a></strong>, informativna emisija</td></tr><tr class="next"><td class="time">18:30</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16810/rtl-danas.aspx">RTL Danas</a></strong>, informativna emisija</td></tr><tr class="next"><td class="time">19:15</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/17416/rtl-vrijeme.aspx">RTL Vrijeme</a></strong>, informativna emisija</td></tr><tr class="next"><td class="time"><em>19:20</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/13456/galileo.aspx">Galileo</a></strong>, zabavno- obrazovna emisija (S5E3/50)</td></tr><tr class="next"><td class="time timefilm"><em>20:05</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/51029/ludi-malci.aspx">Ludi malci</a></strong>, DISPICABLE ME: MINION MADNESS (2010)</td></tr><tr class="next"><td class="time timefilm"><em>20:25</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/11811/kako-je-gru-ukrao-mjesec.aspx">Kako je Gru ukrao Mjesec</a></strong>, Despicable me (2010)</td></tr><tr class="next"><td class="time timefilm"><em>22:15</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/6020/johnny-english.aspx">Johnny English</a></strong>, JOHNNY ENGLISH (2003)</td></tr><tr class="next"><td class="time timefilm"><em>00:05</em></td><td class="title"><strong><a target="_blank" class="film" href="http://mojtv.hr/film/21813/vuk-s-wall-streeta.aspx">Vuk s Wall Streeta -  TV premijera (R)</a></strong>, THE WOLF OF WALL STREET (2013)</td></tr><tr class="next"><td class="time"><em>03:25</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16527/astro-show.aspx">Astro show</a></strong>, emisija uživo</td></tr><tr class="next"><td class="time">04:25</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16810/rtl-danas.aspx">RTL Danas (R)</a></strong>, informativna emisija</td></tr><tr class="next"><td class="time">05:25</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/16810/rtl-danas.aspx">RTL Danas (R)</a></strong>, informativna emisija</td></tr><tr class="next"><td class="time"><em>06:05</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/21324/tko-ce-ga-znati.aspx">Tko će ga znati!</a></strong>, game show (S1E31/10)</td></tr><tr class="next"><td class="time"><em>06:50</em></td><td class="title"><strong><a target="_blank" href="http://mojtv.hr/emisije/21324/tko-ce-ga-znati.aspx">Tko će ga znati!</a></strong>, game show (S1E32/10)</td></tr></table>
+            </div>
+            
+            <div style="clear:both"></div>
+			
+</div>
+        
+
+    </div>
+
+
+</div>
+
+<div style="clear:both"></div>
+
+
+
+<!-- CTRLSTART bannerrotator.ascx -->
+<!-- idcategory: 89, idsize: 90, idbanner: 0, idgroup: 0 -->
+
+<!-- CTRLEND bannerrotator.ascx -->
+
+
+
+<!-- (C)2000-2009 Gemius SA - gemiusAudience / index.hr / Tv program -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('.R1K5uLi85BO0ohj_PE99tVp7_y1n08dwwdcLN_z2b..j7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="/xgemius.js"></script>
+
+
+                     </div>
+                     
+                  </div>
+            </div>  
+            
+        </div>
+        <!--bottomnavi-->
+	    
+	    <!--bottomnavi-->
+        
+        <div id="portalfooter">
+            <div style="height:7px; background:#fff;overflow:hidden"></div>
+		    <div style="background:#292826">
+		        <div style="width:990px;margin:0px auto"><div class="info" style="float:right; width:322px; background:url(/img/logostop.gif)"><!--a class="reklama" href="javascript:;" onclick="window.open('http://www.index.hr/index/default.aspx?id=5','index','width=780,height=600,toolbar=0,location=0,status=0,menubar=0,scrollbars=no,top=100,left=100')">Reklamirajte se na Indexu</a--><a class="reklama" href="http://www.index.hr/index/cjenik_oglasavanja_2017.pdf">Reklamirajte se na Indexu</a><span class="hide"> | </span><a class="impressum" href="javascript:;" onclick="window.open('http://www.index.hr/index/default.aspx?id=2','index','width=780,height=600,toolbar=0,location=0,status=0,menubar=0,scrollbars=no,top=100,left=100');">Impressum</a><span class="hide"> | </span><a class="uvjeti" href="javascript:;" onclick="javascript:window.open('http://www.index.hr/index/default.aspx?id=3','index','width=780,height=600,toolbar=0,location=0,status=0,menubar=0,scrollbars=no,top=100,left=100');">Uvjeti koriĹˇtenja</a><span class="hide"> | </span><a class="kontakt" href="javascript:;" onclick="window.open('http://www.index.hr/index/default.aspx?id=4','index','width=780,height=600,toolbar=0,location=0,status=0,menubar=0,scrollbars=no,top=100,left=100');">Kontakt</a></div><a href="http://www.index.hr"></a><div style="clear:both"></div></div>
+	        </div>
+	        <div class="logosholder">
+	            <div class="logos"><a class="vijesti" href="http://www.index.hr/vijesti">Vijesti.net</a><span class="hide"> | </span><a class="sport" href="http://www.index.hr/sport">Sport</a><span class="hide"> | </span><a class="xmag" href="http://www.index.hr/xmag">Xmag</a><span class="hide"> | </span><a class="nightlife" href="http://www.index.hr/xmag/nightlife">Nightlife</a><span class="hide"> | </span><a class="bloger" href="http://www.bloger.hr">Bloger</a><span class="hide"> | </span><a class="forum" href="http://www.index.hr/forum/">Forum</a><span class="hide"> | </span><a class="video" href="http://www.index.hr/video/">Video</a><span class="hide"> | </span><a class="igra" href="http://www.igra.hr">Igre</a></div>
+	        </div>
+	    </div>
+    
+	</form>
+        
+ 
+ 
+<!-- dotmetrics nesegmentirano -->
+<script type="text/javascript">
+		/* <![CDATA[ */
+		(function() {
+		  var d=document,
+		  h=d.getElementsByTagName('head')[0],
+		  s=d.createElement('script');
+		  s.type='text/javascript';
+		  s.async=true;
+		  s.src='http://test-script.dotmetrics.net/door.js?id=638';
+		  h.appendChild(s);
+		}());
+		/* ]]> */
+</script>
+ 
+ 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2490832-1']);
+  _gaq.push(['_setDomainName', 'index.hr']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--script type="text/javascript" src="/js/wpc.js"></script/-->
+
+
+    
+<!-- CTRLSTART bannerrotator.ascx -->
+<!-- idcategory: 0, idsize: 71, idbanner: 0, idgroup: 0 -->
+<div id="portalBackgroundBanner_divbannercontainer">
+    
+
+</div>
+<!-- CTRLEND bannerrotator.ascx -->
+
+	<!--script language="javascript1.1" src="http://croatia.iprom.net/adserver/Event/Impression?z=33&t=js&sid=index"></script-->
+	
+	
+<script src="/showads.js"></script>
+<script>  
+	if (typeof canshowads === 'undefined'){
+        if (typeof ga !== 'undefined') {
+            // Log an event in Universal Analytics
+            // but without affecting overall bounce rate
+            ga('send', 'event', 'Adblock', 'Yes', {'nonInteraction': 1}); 
+        } else if (typeof _gaq !== 'undefined') { 
+            // Log a non-interactive event in old Google Analytics
+            _gaq.push(['_trackEvent', 'Adblock', 'Yes', undefined, undefined, true]); 
+        }
+   }
+</script>	
+	
+</body>
+</html>

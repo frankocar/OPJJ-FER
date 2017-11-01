@@ -1,0 +1,10 @@
+Scuderia Ferrari	http://formula1.ferrari.com/
+Sahara Force India F1 Team	http://www.forceindiaf1.com/
+Haas F1 Team	http://haasf1team.com/
+McLaren Honda F1 Team	http://www.mclaren.com/formula1
+Mercedes AMG Petronas Motorsport	http://www.mercedesamgf1.com/
+Red Bull Racing	http://www.redbullracing.com/
+Renault Sport F1 Team	http://www.renaultsport.com/
+Sauber F1 Team	http://www.sauberf1team.com/
+Scuderia Toro Rosso	http://www.scuderiatororosso.com/
+Williams Martini Racing	http://www.williamsf1.com/

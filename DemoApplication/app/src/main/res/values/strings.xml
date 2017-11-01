@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="calculate">Izračunaj</string>
+    <string name="input_second_number">Unesite drugi broj</string>
+    <string name="input_first_number">Unesite prvi broj</string>
+    <string name="add_two_numbers">Zbrojite dva broja</string>
+    <string name="close">Zatvori</string>
+    <string name="open_new_screen">Otvori novi ekran</string>
+
+</resources>

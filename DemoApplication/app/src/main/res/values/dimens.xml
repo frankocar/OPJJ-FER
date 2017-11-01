@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="result_width">200dp</dimen>
+    <dimen name="image_size">200dp</dimen>
+</resources>

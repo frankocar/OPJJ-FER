@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="hw0036493852.android.fer.hr.CalculusActivity"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/firstInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:hint="@string/first_number"/>
+
+    <RadioGroup
+        android:id="@+id/operationGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:checkedButton="@+id/addRadioButton">
+        <RadioButton
+            android:id="@id/addRadioButton"
+            android:layout_width="@dimen/radio_width"
+            android:layout_height="wrap_content"
+            android:text="@string/addition_symbol"/>
+        <RadioButton
+            android:id="@+id/subRadioButton"
+            android:layout_width="@dimen/radio_width"
+            android:layout_height="wrap_content"
+            android:text="@string/subtraction_symbol"/>
+        <RadioButton
+            android:id="@+id/mulRadioButton"
+            android:layout_width="@dimen/radio_width"
+            android:layout_height="wrap_content"
+            android:text="@string/multiplication_symbol"/>
+        <RadioButton
+            android:id="@+id/divRadioButton"
+            android:layout_width="@dimen/radio_width"
+            android:layout_height="wrap_content"
+            android:text="@string/division_symbol"/>
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/secondInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:hint="@string/second_number"/>
+
+    <Button
+        android:id="@+id/calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate"/>
+
+</LinearLayout>

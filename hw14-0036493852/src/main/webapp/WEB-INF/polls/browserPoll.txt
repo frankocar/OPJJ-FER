@@ -1,0 +1,6 @@
+Google Chrome	https://google.com/chrome/browser/desktop/
+Mozilla Firefox	https://mozilla.org/firefox
+Safari	https://www.apple.com/safari/
+Microsoft Edge	http://microsoftedge.com/
+Opera	https://www.opera.com/computer
+Other	https://en.wikipedia.org/wiki/Usage_share_of_web_browsers

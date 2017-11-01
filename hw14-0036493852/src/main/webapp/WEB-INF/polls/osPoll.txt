@@ -1,0 +1,4 @@
+Windows	https://en.wikipedia.org/wiki/Microsoft_Windows
+macOS	https://en.wikipedia.org/wiki/MacOS
+GNU/Linux	https://en.wikipedia.org/wiki/GNU
+Other	http://www.dictionary.com/browse/other

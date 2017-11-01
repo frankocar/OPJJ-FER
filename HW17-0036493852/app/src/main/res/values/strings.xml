@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HW17-0036493852</string>
+    <string name="stat_button">Statistika</string>
+    <string name="math_button">Matematika</string>
+    <string name="second_number">Drugi broj</string>
+    <string name="first_number">Prvi broj</string>
+    <string name="multiplication_symbol">*</string>
+    <string name="subtraction_symbol">-</string>
+    <string name="addition_symbol">+</string>
+    <string name="division_symbol">/</string>
+    <string name="calculate">Izračunaj</string>
+    <string name="ok">OK</string>
+    <string name="send_report">Pošalji izvještaj</string>
+    <string name="input_relative_path">Unesite relativnu putanju</string>
+    <string name="load">Učitaj</string>
+    <string name="none">-/-</string>
+</resources>
